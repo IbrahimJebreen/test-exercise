@@ -1,0 +1,49 @@
+#Introduction {
+    background-color: antiquewhite;
+}
+#logo{
+    display: inline;
+}
+
+#Introductiontext {
+    position: absolute;
+    font-style: oblique;
+    padding-top: 70px;
+    padding-left: 400px;
+    font-size: 400%;
+}
+
+#Optionsbar li {
+    list-style: none;
+    display: inline;
+    padding-left: 80px;
+    padding-top: 2%;
+
+}
+
+li a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#footer {
+    background-color: antiquewhite;
+    height: 300px;
+    font-style: oblique;
+     
+}
+
+#textfooter{
+    text-align: center;
+    padding-top:150px;
+    
+}
+
+.table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#navpar{
+    background-color: rgb(34, 142, 175);
+}
